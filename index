@@ -7,7 +7,7 @@
 <body>
     <h1>Sistema de Gestión de Inventarios para una Tienda de Ropa</h1>
 
-    <img src="https://www.clami.cl/static/main_site/img/inventario.png" alt="Inventario de Ropa" style="width:100%;height:auto;">
+    <img src="https://www.clami.cl/static/main_site/img/inventario.png" alt="Inventario de Ropa" style="width:25%;height:auto;">
 
     <p>Este sistema permite registrar entradas y salidas de productos, generar alertas de stock bajo y ofrecer informes de ventas en tiempo real para una tienda de ropa.</p>
 
