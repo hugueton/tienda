@@ -16,11 +16,13 @@
             <th>Producto</th>
             <th>Stock</th>
             <th>Precio</th>
+            <th>Itbis</th>
         </tr>
         <tr>
             <td>Camiseta</td>
             <td>50</td>
             <td>$15.00</td>
+             
         </tr>
         <tr>
             <td>Jeans</td>
@@ -34,6 +36,7 @@
         Nombre: <input type="text" name="nombre"><br><br>
         Stock: <input type="number" name="stock"><br><br>
         Precio: <input type="text" name="precio"><br><br>
+        Itbis: <input type="text" name="Precio Itbis"><br><br>
         <button type="submit">Agregar</button>
     </form>
 </body>
